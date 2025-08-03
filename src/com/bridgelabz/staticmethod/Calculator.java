@@ -1,4 +1,5 @@
 package com.bridgelabz.staticmethod;
 
-public class Calculator {
+public interface Calculator {
+    int add(int a,int b);
 }
