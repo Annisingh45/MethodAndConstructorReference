@@ -1,6 +1,6 @@
 package com.bridgelabz.instancemethod;
 
-public class Example {
+public class NumberPrinter {
     void print()
     {
         for(int i=1;i<=5;i++)

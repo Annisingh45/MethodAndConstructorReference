@@ -1,6 +1,6 @@
 package com.bridgelabz.instancemethod;
 
-public interface Demo {
+public interface Displayable {
     void display();
 }
 
